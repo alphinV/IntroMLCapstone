@@ -1,5 +1,5 @@
 # IntroMLCapstone
-- This project containes all the ML modle for my Capstone project.
+- This project containes all the ML models for my Capstone project.
 
 Files:
 - LinearRegression.ipynb = Linear Regression
