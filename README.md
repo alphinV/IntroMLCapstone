@@ -28,7 +28,7 @@ Setup:
 
     - xgboost (for the XGBoost notebook)
 
-3. Place train.csv, I have provided it to you already.
+3. Use train.csv, I have provided it to you already.
 
 4. Open a notebook (I used Google Colab).
 
